@@ -8,9 +8,9 @@
 		
 		<property name="hibernate.connection.url">jdbc:mysql://localhost:3306/jspproject</property>
 		
-		<property name = "hibernate.connection.username">root</property>
+		<property name = "hibernate.connection.username">Your_Username</property>
 		
-		<property name ="hibernate.connection.password">Samiksha1507</property>
+		<property name ="hibernate.connection.password">Your_password</property>
 		
 		<property name ="hbm2ddl.auto">update</property>
 		
